@@ -1,0 +1,47 @@
+.navbar{
+    background: rgb(207, 207, 207);
+    flex-direction: row;
+}
+
+.nav-item{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    font-weight: bold;
+}
+
+.quem-somos{
+    background: rgba(238, 115, 14, 0.856);
+}
+
+.margin{
+
+    padding-top: 5%;
+    padding-bottom:5%;
+}
+.row{
+    margin: 30px;
+}
+
+h1{
+    background:rgb(238, 178, 67);
+}
+
+h6{
+    background: lightslategrey;
+    text-align: center;
+    font-size: smaller;
+}
+
+h4{
+    border: 2px rgb(207, 207, 207) solid ;
+    border-radius: 5px;
+    height: 90%;
+    width: 90%;
+    text-align: justify;
+    font-size: medium;
+    padding: 5%;
+}
+
+.col-lg-4{
+    margin-bottom: 20px;
+}
